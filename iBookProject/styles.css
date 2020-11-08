@@ -1,0 +1,83 @@
+html{
+    height: 100%;
+}
+
+
+body{
+    /*background-color: #9B9B7A;*/
+    background-color: #797D62;
+    background-size: cover;
+    background-attachment: local;
+}
+
+.all{
+margin-left: 200px;
+margin-right: 200px;
+width: 1024px;
+background-color: rgb(255, 255, 255);
+
+
+}
+
+header{
+    height: 118px;
+   /* text-align: center;*/
+    background-color: #f1dca77a;
+    
+}
+
+nav{
+   /* background-color: #fcf0d17a;
+   background-color: #f1dca77a;*/
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    /*background-color: #797d628c;*/
+    background-color: #9b9b7a;
+   
+}
+main{
+
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    
+    padding-right: 100px;
+    padding-left: 100px;
+  /*  background-color: #fcf0d17a;*/
+  background-color: #f1dca77a;
+}
+
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #9b9b7a49;
+}
+
+.logoo{
+    width: 130px ;
+    
+    height: 100px ;
+/*margin-right: 1000px;*/
+
+}
+
+.aa{
+    padding-left: 20px;
+ text-align: center;
+ color: #997B66;
+}
+
+.aaa{
+
+    text-align: center;
+    color: #F1DCA7;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+Toota 👩🏻‍💻💜, [21 Rab. I 1442 AH at 6:03:01 PM]:
+Css
