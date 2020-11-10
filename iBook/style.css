@@ -123,3 +123,92 @@ select{
 .col button{
    border-radius: 5px;
 }
+
+
+/*form page */
+
+.login{
+    align-items: center;
+    padding: 40px;
+    margin: 50px;
+    margin-top: 150px;
+    background-color: rgb(245, 229, 189);
+    width: 200px;
+    height: 300px;
+    border: solid;
+    border-color: hsl(69, 12%, 50%);
+    width: 7.5cm;
+    
+    /*flex-basis: 25%;
+    padding:10px;
+    min-width: 200px;
+    margin-bottom: 50px;*/
+}
+
+.ibook {
+    color:  #797D62;
+    text-align: left;
+}
+
+td {
+   border: black; 
+}
+
+.sub{
+    size: 100px;
+    background-color:#797D62 ;
+    border: solid;
+    border-color: black;
+    border: 2px ;
+    border-radius: 12px;
+    width: 5cm;
+    height: 0.65cm;
+  
+}
+.under{
+    border: solid;
+    border-color: hsla(0, 0%, 0%, 0) hsla(0, 0%, 0%, 0) hsl(60, 14%, 54%) hsla(0, 0%, 0%, 0) ; 
+    /*background-color:  hsla(43, 73%, 90%, 0.478);*/
+}
+
+label {
+    text-align: left;
+}
+
+.log{
+    height:750px; 
+}
+
+.tw {
+    border: solid;
+    border-color: #1DA1F2;
+    border-radius: 12px;
+    width: 7px;
+}
+.fac {  
+    border: solid;
+    border-color: #3B5998;
+    border-radius: 12px;
+    size: 6px;
+}
+.gogle {
+    border: solid;
+    border-color: #E83323;
+    border-radius: 12px;
+}
+
+.up{
+    align-items: center;
+    padding: 40px;
+    margin: 50px;
+    margin-left: 190px;
+    margin-right: 190px;
+    margin-top: 100px;
+    background-color: rgb(245, 229, 189);
+    /*width: 200px;*/
+    height: 500px;
+    border: solid;
+    border-color: hsl(69, 12%, 50%);
+    width: 7.5cm;
+    
+}
